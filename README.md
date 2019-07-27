@@ -18,7 +18,7 @@ Here Admin will approve that the data entered by the contestants is valid or not
 
 6. **Automatic Verification of Candidates:** By linking the biometric data of voters with their accounts(via Aadhar Card), we can automatically verify the right voter. We can use *IoT devices* like camera to extract the data like type of iris or fingerprint scanner, as the voter is about to vote. This will make the process reliable.
 
-7. **Overcoming EVM Hacking:** A voter at first logs into the system. He can achieve this by importing his data from the Blockchain since he is already registered. A fixed amount of ethers is also credited to allow himw to vote **only once**. On casting the vote, he signs the transaction with it's digital signature. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and a voter need not to visit booth to cast votes, the accusations like *EVM Hacking* and *Booth Hijacking* is dealt with.
+7. **Overcoming EVM Hacking:** A voter at first logs into the system provided by Electoral Commission of India. He can achieve this by importing his data from the Blockchain since he has already registered. A fixed amount of ethers is also credited to allow himw to vote **only once**. On casting the vote, he signs the transaction with it's digital signature. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and once data entered in the system can't be changed, the accusations like *EVM Hacking* is dealt with.
 
 ## Team - BIT LORDS
 
