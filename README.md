@@ -5,7 +5,7 @@ We plan to build and deploy a blockchain for storing the voter's records using t
 ## Workflow
 1. **Add Voters:** Considering the population statistics(using Aadhar), Admin will feed the data into the system and will be automatically divided into 2 age groups(i.e. >= 18 and < 18).
 Then eligible voters get separated from the non-eligible ones.
-Using this every time before election, we can automatically add people to the Voter's List and none is left out. As a result, e-voter id is also generated automatically for a non-registerd voter.
+Using this every time before election, we can automatically add people to the Voter's List and none is left out. As a result, e-voter id is also generated automatically for a non-registered voter.
 
 2. **Add Contestants:** Divide the country into different constitutencies in order wise,i.e., first sort them in states and then constituencies. After that allow the contestants to register, by entering their bio-data and the promises made by them in previous elections (if available). Then using database, we will retrieve their attendance in the Houses and number of cases filed against them (if available), and categorise the cases to different categories.
 Here Admin will approve that the data entered by the contestants is valid or not and if anything is found wrong then they may be debarred from the process.
@@ -18,7 +18,7 @@ Here Admin will approve that the data entered by the contestants is valid or not
 
 6. **Automatic Verification of Candidates:** By linking the biometric data of voters with their accounts(via Aadhar Card), we can automatically verify the right voter. We can use *IoT devices* like camera to extract the data like type of iris or fingerprint scanner, as the voter is about to vote. This will make the process reliable.
 
-7. **Overcoming EVM Hacking:** A voter at first logs into the system provided by Electoral Commission of India. He can achieve this by importing his data from the Blockchain since he has already registered. A fixed amount of ethers is also credited to allow himw to vote **only once**. On casting the vote, he signs the transaction with it's digital signature. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and once data entered in the system can't be changed, the accusations like *EVM Hacking* is dealt with.
+7. **Overcoming EVM Hacking:** A voter at first logs into the system provided by Electoral Commission of India. He can achieve this by importing his data from the Blockchain since he has already registered. A fixed amount of ethers is also credited to allow himw to vote **only once**. On casting the vote, he signs the transaction with it's *Digital Signature* or *Blind Signature*. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and once data entered in the system can't be changed, the accusations like *EVM Hacking* is dealt with.
 
 ## Team - BIT LORDS
 
