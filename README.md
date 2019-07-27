@@ -14,7 +14,7 @@ Here Admin will approve that the data entered by the contestants is valid or not
 
 4. **Making the Decision:** Using the data entered by the contestants and database maintained, we can display a list of points like *Attendance in the House*, *Criminal Cases Recorded*, *Promises Fulfilled*, ... to help voters make the correct decision.
 
-5. **Live Vote Counting:** As the voters vote for their candidates, *Live Vote Counting* will be running in the background. As soon as the voting period is over, the votes will be accumulated from entire country/state, and the result can be displayed in a short interval of time.
+5. **Live Vote Counting:** As the voters vote for their candidates, *Live Vote Counting* will be running in the background(not visible to voters). As soon as the voting period is over, the votes will be accumulated from entire country/state, and the result can be displayed in a short interval of time. Also we can find the various statistical percentages like percentage of citizens voted, etc.
 
 6. **Automatic Verification of Candidates:** By linking the biometric data of voters with their accounts(via Aadhar Card), we can automatically verify the right voter. We can use *IoT devices* like camera to extract the data like type of iris or fingerprint scanner, as the voter is about to vote. This will make the process reliable.
 
