@@ -14,9 +14,9 @@ Here Admin will approve that the data entered by the contestants is valid or not
 
 4. **Making the Decision:** Using the data entered by the contestants and database maintained, we can display a list of points like *Attendance in the House*, *Criminal Cases Recorded*, *Promises Fulfilled*, ... to help voters make the correct decision.
 
-5. **Live Vote Counting:** Make a Live Vote Bar which will be visible to the voters as they vote, regarding the contestants leading in the election (pertaining to their constituency). This will help to declare the Winner Party as soon as Voting Process has ended.
+5. **Live Vote Counting:** As the voters vote for their candidates, *Live Vote Counting* will be running in the background. As soon as the voting period is over, the votes will be accumulated from entire country/state, and the result can be displayed in a short interval of time.
 
-6. **Automatic Verification of Candidates:** By linking the biometric data of voters with their accounts(via Aadhar Card), we can automatically verify the right voter. We can use *IoT devices* like camera to extract the data like type of iris as the voters is about to vote. This will make the process reliable.
+6. **Automatic Verification of Candidates:** By linking the biometric data of voters with their accounts(via Aadhar Card), we can automatically verify the right voter. We can use *IoT devices* like camera to extract the data like type of iris or fingerprint scanner, as the voter is about to vote. This will make the process reliable.
 
 7. **Overcoming EVM Hacking:** A voter at first logs into the system. He can achieve this by importing his data from the Blockchain since he is already registered. A fixed amount of ethers is also credited to allow himw to vote **only once**. On casting the vote, he signs the transaction with it's digital signature. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and a voter need not to visit booth to cast votes, the accusations like *EVM Hacking* and *Booth Hijacking* is dealt with.
 
