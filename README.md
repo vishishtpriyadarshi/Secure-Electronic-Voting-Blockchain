@@ -3,9 +3,9 @@
 We plan to build and deploy a blockchain for storing the voter's records using the *Azure Blockchain Workbench*. The blockchain will involve a smart contract that handles creating, retrieving, updating and deleting voter's records and also allow a voter to vote for *only one* candidate depending upon his constituency.
 
 ## Workflow
-1. **Add Voters:** Considering the population statistics, Admin will feed the data into the system and will be automatically divided into various age groups(i.e. >= 18 and < 18).
+1. **Add Voters:** Considering the population statistics(using Aadhar), Admin will feed the data into the system and will be automatically divided into 2 age groups(i.e. >= 18 and < 18).
 Then eligible voters get separated from the non-eligible ones.
-Using this every time before election we can automatically add people to the Voter List and none is left out.
+Using this every time before election, we can automatically add people to the Voter's List and none is left out. As a result, e-voter id is also generated automatically for a non-registerd voter.
 
 2. **Add Contestants:** Divide the country into different constitutencies in order wise,i.e., first sort them in states and then constituencies. After that allow the contestants to register, by entering their bio-data and the promises made by them in previous elections (if available). Then using database, we will retrieve their attendance in the Houses and number of cases filed against them (if available), and categorise the cases to different categories.
 Here Admin will approve that the data entered by the contestants is valid or not and if anything is found wrong then they may be debarred from the process.
