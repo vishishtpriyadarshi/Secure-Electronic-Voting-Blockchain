@@ -21,7 +21,7 @@ Using this every time before election we can automatically add people to the Vot
 
 ## Team - BIT LORDS
 
-# Indian Institute of Technology Guwahati
+### Indian Institute of Technology Guwahati
 
 - VISHISHT PRIYADARSHI
 - SAMIKSHA SACHDEVA
