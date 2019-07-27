@@ -1,6 +1,6 @@
 # Secure-Electronic-Voting-Blockchain
 ## Idea
-We plan to build and deploy a blockchain for storing the voter's records using the *Azure Blockchain Workbench*. The blockchain will involve a smart contract that handles creating, retrieving, updating, and deleting voter's records. Also, it'll allow a voter to vote *only once*. 
+We plan to build and deploy a blockchain for storing the voters' records using the *Azure Blockchain Workbench*. The blockchain will involve a smart contract that handles creating, retrieving, updating, and deleting voters' records. Also, it'll allow a voter to vote *only once*. 
 
 ## Workflow
 1. **Add Voters:** Considering the population statistics(using Aadhar), Admin will feed the data into the system which will be automatically divided into two age groups(i.e, >= 18 and < 18).
