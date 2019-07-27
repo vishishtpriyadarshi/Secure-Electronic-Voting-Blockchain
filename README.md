@@ -14,11 +14,11 @@ Here Admin will check the validity of data entered by candidates and if found in
 
 4. **Making the Decision:** Using the data entered by the contestants and database maintained, we can display a list of points like *Attendance in the House*, *Criminal Cases Recorded*, *Promises Fulfilled*, etc. to help voters make the correct decision.
 
-5. **Live Vote Counting:** As the voters vote, *Live Vote Counting* will be running in the background(not visible to voters). As soon as the voting period is over, the votes will be accumulated from the entire country/state, and the result can be displayed in a short interval of time. Also, we can find the various statistical percentages like percentage of citizens voted, etc.
+5. **Live Vote Counting:** As the voters vote, *Live Vote Counting* will be running in the background(not visible to voters). As soon as the voting period is over, the votes will be accumulated from the entire country/state, and the result can be displayed in a short interval of time. Also, we can find the various statistical percentages like percentage of voters voted, etc.
 
 6. **Automatic Verification of Candidates:** By linking the biometric data of voters with their accounts(via Aadhar), we can automatically verify the right voter. We can use *IoT devices* like a camera to extract the data like type of iris or fingerprint scanner, which will make the process more reliable and reduce human labour.
 
-7. **Overcoming EVM Hacking:** A voter at first logs into the system provided by Election Commission of India through Biometrics. A fixed amount of ethers is also credited to allow him to vote **only once**. On casting a vote, he signs the transaction with it's *Digital Signature* or *Blind Signature*. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and data once entered in the system can't be changed, the accusations like *EVM Hacking* is dealt with.
+7. **Overcoming EVM Hacking:** A voter at first logs into the system provided by Election Commission of India through Biometrics. A fixed amount of ethers is also credited to allow him to vote **only once**. On casting a vote, he signs the transaction with it's *Digital Signature* or *Blind Signature*. On signing the transaction, the transaction is published to the network and is mined by the Booths. Since the Blockchain is secure and transparent, and data once entered in the system can't be changed, the accusations like *EVM Hacking* are taken care of.
 
 ## Team - BIT LORDS
 
