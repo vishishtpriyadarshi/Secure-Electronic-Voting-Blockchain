@@ -7,7 +7,8 @@ We plan to build and deploy a blockchain for storing the voter's records using t
 Then eligible voters get separated from the non-eligible ones.
 Using this every time before election we can automatically add people to the Voter List and none is left out.
 
-2. **Add Contestants:** Divide the country into different constitutencies in order wise,i.e., first sort them in states , then districts and then constituencies. After that allow the contestants to register, by entering their bio-data and the promises made by them in previous elections (if available). Then using database, we will retrieve their attendance in the Houses and number of cases filed against them (if available), and categorise the cases to different categories.
+2. **Add Contestants:** Divide the country into different constitutencies in order wise,i.e., first sort them in states and then constituencies. After that allow the contestants to register, by entering their bio-data and the promises made by them in previous elections (if available). Then using database, we will retrieve their attendance in the Houses and number of cases filed against them (if available), and categorise the cases to different categories.
+Here Admin will approve that the data entered by the contestants is valid or not and if anything is found wrong then they may be debarred from the process.
 
 3. **Remote Voting:** Allow the voters to vote from anywhere to their constituency by connecting such voters internally with their *registered constituency*.
 
